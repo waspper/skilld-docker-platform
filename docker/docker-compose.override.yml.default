@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  php:
+    environment:
+      DB_PORT: $DB_PORT
+#      PHP_FPM_CLEAR_ENV: "no"

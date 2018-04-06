@@ -1,0 +1,7 @@
+build/
+mariadb-init/
+platform/
+docker/docker-compose.override.yml
+.directory
+.env
+
